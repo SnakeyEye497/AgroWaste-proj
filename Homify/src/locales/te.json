@@ -1,0 +1,50 @@
+{
+  "app": {
+    "name": "అగ్రి-వేస్ట్"
+  },
+  "common": {
+    "welcome": "స్వాగతం",
+    "login": "లాగిన్",
+    "register": "నమోదు",
+    "logout": "లాగౌట్",
+    "email": "ఇమెయిల్",
+    "password": "పాస్వర్డ్",
+    "confirmPassword": "పాస్వర్డ్ నిర్ధారించండి",
+    "name": "పేరు",
+    "phone": "ఫోన్",
+    "address": "చిరునామా",
+    "submit": "సమర్పించండి",
+    "cancel": "రద్దు",
+    "save": "సేవ్",
+    "edit": "సవరించు",
+    "delete": "తొలగించు",
+    "search": "వెతుకు",
+    "filter": "ఫిల్టర్",
+    "sort": "క్రమబద్ధీకరించు",
+    "view": "చూడు",
+    "close": "మూసివేయి",
+    "back": "వెనుకకు",
+    "next": "తదుపరి",
+    "loading": "లోడ్ అవుతోంది...",
+    "success": "విజయం",
+    "error": "లోపం",
+    "warning": "హెచ్చరిక",
+    "info": "సమాచారం"
+  },
+  "nav": {
+    "dashboard": "డాష్బోర్డ్",
+    "wasteSelling": "వ్యర్థాల అమ్మకం",
+    "orders": "ఆర్డర్లు",
+    "wastePrediction": "వ్యర్థాల అంచనా",
+    "tutorials": "ట్యుటోరియల్స్",
+    "profile": "ప్రొఫైల్",
+    "browseWaste": "వ్యర్థాలను బ్రౌజ్ చేయండి",
+    "postRequirement": "అవసరాన్ని పోస్ట్ చేయండి",
+    "transport": "రవాణా",
+    "logout": "లాగౌట్",
+    "overview": "అవలోకనం",
+    "manageFarmers": "రైతులను నిర్వహించండి",
+    "manageBuyers": "కొనుగోలుదారులను నిర్వహించండి",
+    "manageTutorials": "ట్యుటోరియల్స్ నిర్వహించండి"
+  }
+} 

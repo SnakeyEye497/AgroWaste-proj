@@ -1,0 +1,189 @@
+{
+  "app": {
+    "name": "AgriWaste Connect",
+    "tagline": "Connecting farmers and buyers for sustainable agricultural waste management"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact",
+    "login": "Login",
+    "register": "Register"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "forgotPassword": "Forgot Password",
+    "forgotPasswordDescription": "Enter your email address and we'll send you a link to reset your password.",
+    "resetLinkSent": "Reset link sent!",
+    "resetLinkSentDescription": "Check your email for a link to reset your password. If it doesn't appear within a few minutes, check your spam folder.",
+    "sendResetLink": "Send Reset Link",
+    "backToLogin": "Back to Login",
+    "email": "Email Address",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "name": "Full Name",
+    "phone": "Phone Number",
+    "address": "Address",
+    "role": "I am a",
+    "farmer": "Farmer",
+    "buyer": "Buyer",
+    "rememberMe": "Remember me",
+    "noAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?",
+    "loginError": "Invalid email or password",
+    "registerError": "Registration failed. Please try again."
+  },
+  "farmer": {
+    "dashboard": "Dashboard",
+    "manageWaste": "Manage Waste",
+    "orders": "Orders",
+    "tutorials": "Tutorials",
+    "profile": "Profile",
+    "addWaste": "Add Waste",
+    "editWaste": "Edit Waste",
+    "deleteWaste": "Delete Waste"
+  },
+  "buyer": {
+    "dashboard": "Dashboard",
+    "browseWaste": "Browse Waste",
+    "postRequirement": "Post Requirement",
+    "transport": "Transport",
+    "profile": "Profile"
+  },
+  "admin": {
+    "dashboard": "Dashboard",
+    "manageFarmers": "Manage Farmers",
+    "manageBuyers": "Manage Buyers",
+    "manageTutorials": "Manage Tutorials",
+    "profile": "Profile"
+  },
+  "common": {
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "status": "Status",
+    "active": "Active",
+    "inactive": "Inactive",
+    "pending": "Pending",
+    "completed": "Completed",
+    "inProgress": "In Progress"
+  },
+  "chatbot": {
+    "title": "AgriWaste Assistant",
+    "welcome": "Hello! I'm your AgriWaste Connect assistant. How can I help you today?",
+    "placeholder": "Type your message...",
+    "open": "Open chatbot",
+    "close": "Close chatbot",
+    "error": "Sorry, I'm having trouble connecting. Please try again later.",
+    "fallback": "I'm not sure how to respond to that. Could you try rephrasing your question?"
+  },
+  "chat": {
+    "conversations": "Conversations",
+    "newChat": "New Chat",
+    "newConversation": "New Conversation",
+    "searchPlaceholder": "Search conversations...",
+    "searchUsers": "Search users...",
+    "typingPlaceholder": "Type a message...",
+    "send": "Send",
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "you": "You",
+    "noMessages": "No messages yet",
+    "noConversations": "No conversations yet",
+    "startNewChat": "Start a new chat",
+    "noResults": "No results found",
+    "selectConversation": "Select a conversation to start chatting",
+    "typeToSearch": "Type to search for users",
+    "noUsersFound": "No users found",
+    "farmer": "Farmer",
+    "buyer": "Buyer",
+    "unknownUser": "Unknown User",
+    "attachment": "Attachment",
+    "attachImage": "Attach Image",
+    "attachDocument": "Attach Document",
+    "openChat": "Open chat",
+    "closeChat": "Close chat"
+  },
+  "validation": {
+    "nameRequired": "Name is required",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Please enter a valid email",
+    "passwordRequired": "Password is required",
+    "passwordLength": "Password must be at least 6 characters",
+    "passwordMatch": "Passwords do not match",
+    "phoneRequired": "Phone number is required",
+    "addressRequired": "Address is required"
+  },
+  "landing": {
+    "features": {
+      "title": "Why Choose AgriWaste Connect?",
+      "sustainable": {
+        "title": "Sustainable Solutions",
+        "description": "Reduce environmental impact by repurposing agricultural waste"
+      },
+      "circular": {
+        "title": "Circular Economy",
+        "description": "Transform waste into valuable resources for various industries"
+      },
+      "connect": {
+        "title": "Direct Connections",
+        "description": "Connect directly with buyers and sellers without intermediaries"
+      }
+    }
+  },
+  "footer": {
+    "copyright": "© {year} AgriWaste Connect. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contact": "Contact Us"
+  },
+  "waste": {
+    "manageWaste": "Manage Waste",
+    "addNew": "Add New Waste",
+    "searchPlaceholder": "Search waste items...",
+    "filterAll": "All Status",
+    "filterAvailable": "Available",
+    "filterPending": "Pending",
+    "filterSold": "Sold",
+    "name": "Name",
+    "quantity": "Quantity",
+    "price": "Price",
+    "location": "Location",
+    "status": "Status",
+    "actions": "Actions",
+    "confirmDelete": "Are you sure you want to delete this waste item?",
+    "noItemsFound": "No waste items found",
+    "statusAvailable": "Available",
+    "statusPending": "Pending",
+    "statusSold": "Sold"
+  },
+  "orders": {
+    "title": "Orders",
+    "searchPlaceholder": "Search orders...",
+    "filterAll": "All Status",
+    "filterPending": "Pending",
+    "filterConfirmed": "Confirmed",
+    "filterCompleted": "Completed",
+    "filterCancelled": "Cancelled",
+    "orderId": "Order ID",
+    "buyer": "Buyer",
+    "waste": "Waste",
+    "quantity": "Quantity",
+    "totalPrice": "Total Price",
+    "status": "Status",
+    "date": "Date",
+    "actions": "Actions",
+    "noOrdersFound": "No orders found",
+    "statusPending": "Pending",
+    "statusConfirmed": "Confirmed",
+    "statusCompleted": "Completed",
+    "statusCancelled": "Cancelled"
+  }
+} 

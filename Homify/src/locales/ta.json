@@ -1,0 +1,50 @@
+{
+  "app": {
+    "name": "அக்ரி-வேஸ்ட்"
+  },
+  "common": {
+    "welcome": "வரவேற்கிறோம்",
+    "login": "உள்நுழைய",
+    "register": "பதிவு செய்ய",
+    "logout": "வெளியேறு",
+    "email": "மின்னஞ்சல்",
+    "password": "கடவுச்சொல்",
+    "confirmPassword": "கடவுச்சொல் உறுதிப்படுத்து",
+    "name": "பெயர்",
+    "phone": "தொலைபேசி",
+    "address": "முகவரி",
+    "submit": "சமர்ப்பி",
+    "cancel": "ரத்து செய்",
+    "save": "சேமி",
+    "edit": "திருத்து",
+    "delete": "நீக்கு",
+    "search": "தேடு",
+    "filter": "வடிகட்டு",
+    "sort": "வரிசைப்படுத்து",
+    "view": "காண்",
+    "close": "மூடு",
+    "back": "பின்னால்",
+    "next": "அடுத்து",
+    "loading": "ஏற்றுகிறது...",
+    "success": "வெற்றி",
+    "error": "பிழை",
+    "warning": "எச்சரிக்கை",
+    "info": "தகவல்"
+  },
+  "nav": {
+    "dashboard": "டாஷ்போர்டு",
+    "wasteSelling": "கழிவு விற்பனை",
+    "orders": "ஆர்டர்கள்",
+    "wastePrediction": "கழிவு கணிப்பு",
+    "tutorials": "பயிற்சிகள்",
+    "profile": "சுயவிவரம்",
+    "browseWaste": "கழிவுகளை உலாவு",
+    "postRequirement": "தேவையை பதிவிடு",
+    "transport": "போக்குவரத்து",
+    "logout": "வெளியேறு",
+    "overview": "கண்ணோட்டம்",
+    "manageFarmers": "விவசாயிகளை நிர்வகி",
+    "manageBuyers": "வாங்குபவர்களை நிர்வகி",
+    "manageTutorials": "பயிற்சிகளை நிர்வகி"
+  }
+} 

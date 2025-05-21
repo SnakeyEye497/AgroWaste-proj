@@ -1,0 +1,187 @@
+{
+  "app": {
+    "name": "कृषि अपशिष्ट कनेक्ट",
+    "tagline": "टिकाऊ कृषि अपशिष्ट प्रबंधन के लिए किसानों और खरीदारों को जोड़ना"
+  },
+  "nav": {
+    "home": "होम",
+    "about": "हमारे बारे में",
+    "services": "सेवाएं",
+    "contact": "संपर्क करें",
+    "login": "लॉगिन",
+    "register": "रजिस्टर"
+  },
+  "auth": {
+    "login": "लॉगिन",
+    "register": "रजिस्टर",
+    "forgotPassword": "पासवर्ड भूल गए",
+    "forgotPasswordDescription": "अपना ईमेल पता दर्ज करें और हम आपको अपना पासवर्ड रीसेट करने के लिए एक लिंक भेजेंगे।",
+    "resetLinkSent": "रीसेट लिंक भेज दिया गया!",
+    "resetLinkSentDescription": "अपना पासवर्ड रीसेट करने के लिए अपने ईमेल की जांच करें। यदि यह कुछ मिनटों के भीतर नहीं दिखाई देता है, तो अपने स्पैम फ़ोल्डर की जांच करें।",
+    "sendResetLink": "रीसेट लिंक भेजें",
+    "backToLogin": "लॉगिन पर वापस जाएं",
+    "email": "ईमेल पता",
+    "password": "पासवर्ड",
+    "confirmPassword": "पासवर्ड की पुष्टि करें",
+    "name": "पूरा नाम",
+    "phone": "फोन नंबर",
+    "address": "पता",
+    "role": "मैं एक",
+    "farmer": "किसान",
+    "buyer": "खरीदार",
+    "rememberMe": "मुझे याद रखें",
+    "noAccount": "खाता नहीं है?",
+    "alreadyHaveAccount": "पहले से ही एक खाता है?",
+    "loginError": "अमान्य ईमेल या पासवर्ड",
+    "registerError": "पंजीकरण विफल हुआ। कृपया पुन: प्रयास करें।"
+  },
+  "validation": {
+    "nameRequired": "नाम आवश्यक है",
+    "emailRequired": "ईमेल आवश्यक है",
+    "emailInvalid": "कृपया एक वैध ईमेल दर्ज करें",
+    "passwordRequired": "पासवर्ड आवश्यक है",
+    "passwordLength": "पासवर्ड कम से कम 6 अक्षरों का होना चाहिए",
+    "passwordMatch": "पासवर्ड मेल नहीं खाते",
+    "phoneRequired": "फोन नंबर आवश्यक है",
+    "addressRequired": "पता आवश्यक है"
+  },
+  "landing": {
+    "features": {
+      "title": "कृषि अपशिष्ट कनेक्ट क्यों चुनें?",
+      "sustainable": {
+        "title": "टिकाऊ समाधान",
+        "description": "कृषि अपशिष्ट का पुन: उपयोग करके पर्यावरणीय प्रभाव को कम करें"
+      },
+      "circular": {
+        "title": "परिपत्र अर्थव्यवस्था",
+        "description": "अपशिष्ट को विभिन्न उद्योगों के लिए मूल्यवान संसाधनों में बदलें"
+      },
+      "connect": {
+        "title": "प्रत्यक्ष संबंध",
+        "description": "बिना बिचौलियों के सीधे खरीदारों और विक्रेताओं से जुड़ें"
+      }
+    }
+  },
+  "footer": {
+    "copyright": "© {year} कृषि अपशिष्ट कनेक्ट। सर्वाधिकार सुरक्षित।",
+    "privacy": "गोपनीयता नीति",
+    "terms": "सेवा की शर्तें",
+    "contact": "हमसे संपर्क करें"
+  },
+  "waste": {
+    "manageWaste": "अपशिष्ट प्रबंधन",
+    "addNew": "नया अपशिष्ट जोड़ें",
+    "searchPlaceholder": "अपशिष्ट आइटम खोजें...",
+    "filterAll": "सभी स्थिति",
+    "filterAvailable": "उपलब्ध",
+    "filterPending": "लंबित",
+    "filterSold": "बिक चुका है",
+    "name": "नाम",
+    "quantity": "मात्रा",
+    "price": "कीमत",
+    "location": "स्थान",
+    "status": "स्थिति",
+    "actions": "कार्रवाई",
+    "confirmDelete": "क्या आप वाकई इस अपशिष्ट आइटम को हटाना चाहते हैं?",
+    "noItemsFound": "कोई अपशिष्ट आइटम नहीं मिला",
+    "statusAvailable": "उपलब्ध",
+    "statusPending": "लंबित",
+    "statusSold": "बिक चुका है"
+  },
+  "orders": {
+    "title": "आदेश",
+    "searchPlaceholder": "आदेश खोजें...",
+    "filterAll": "सभी स्थिति",
+    "filterPending": "लंबित",
+    "filterConfirmed": "पुष्टि की गई",
+    "filterCompleted": "पूर्ण",
+    "filterCancelled": "रद्द",
+    "orderId": "आदेश आईडी",
+    "buyer": "खरीदार",
+    "waste": "अपशिष्ट",
+    "quantity": "मात्रा",
+    "totalPrice": "कुल कीमत",
+    "status": "स्थिति",
+    "date": "तारीख",
+    "actions": "कार्रवाई",
+    "noOrdersFound": "कोई आदेश नहीं मिला",
+    "statusPending": "लंबित",
+    "statusConfirmed": "पुष्टि की गई",
+    "statusCompleted": "पूर्ण",
+    "statusCancelled": "रद्द"
+  },
+  "farmer": {
+    "dashboard": "डैशबोर्ड",
+    "manageWaste": "अपशिष्ट प्रबंधन",
+    "orders": "ऑर्डर",
+    "tutorials": "ट्यूटोरियल",
+    "profile": "प्रोफाइल",
+    "addWaste": "अपशिष्ट जोड़ें",
+    "editWaste": "अपशिष्ट संपादित करें",
+    "deleteWaste": "अपशिष्ट हटाएं"
+  },
+  "buyer": {
+    "dashboard": "डैशबोर्ड",
+    "browseWaste": "अपशिष्ट ब्राउज़ करें",
+    "postRequirement": "आवश्यकता पोस्ट करें",
+    "transport": "परिवहन",
+    "profile": "प्रोफाइल"
+  },
+  "admin": {
+    "dashboard": "डैशबोर्ड",
+    "manageFarmers": "किसान प्रबंधन",
+    "manageBuyers": "खरीदार प्रबंधन",
+    "manageTutorials": "ट्यूटोरियल प्रबंधन",
+    "profile": "प्रोफाइल"
+  },
+  "common": {
+    "search": "खोज",
+    "filter": "फ़िल्टर",
+    "sort": "क्रमबद्ध करें",
+    "save": "सहेजें",
+    "cancel": "रद्द करें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "view": "देखें",
+    "status": "स्थिति",
+    "active": "सक्रिय",
+    "inactive": "निष्क्रिय",
+    "pending": "लंबित",
+    "completed": "पूर्ण",
+    "inProgress": "प्रगति पर"
+  },
+  "chatbot": {
+    "title": "कृषि अपशिष्ट सहायक",
+    "welcome": "नमस्ते! मैं आपका कृषि अपशिष्ट कनेक्ट सहायक हूँ। आज मैं आपकी कैसे मदद कर सकता हूँ?",
+    "placeholder": "अपना संदेश लिखें...",
+    "open": "चैटबॉट खोलें",
+    "close": "चैटबॉट बंद करें",
+    "error": "क्षमा करें, मुझे कनेक्ट करने में समस्या हो रही है। कृपया बाद में पुनः प्रयास करें।",
+    "fallback": "मुझे नहीं पता कि इसका जवाब कैसे दूँ। क्या आप अपना प्रश्न दोबारा पूछ सकते हैं?"
+  },
+  "chat": {
+    "conversations": "वार्तालाप",
+    "newChat": "नया चैट",
+    "newConversation": "नया वार्तालाप",
+    "searchPlaceholder": "वार्तालाप खोजें...",
+    "searchUsers": "उपयोगकर्ता खोजें...",
+    "typingPlaceholder": "संदेश लिखें...",
+    "send": "भेजें",
+    "today": "आज",
+    "yesterday": "कल",
+    "you": "आप",
+    "noMessages": "अभी तक कोई संदेश नहीं",
+    "noConversations": "अभी तक कोई वार्तालाप नहीं",
+    "startNewChat": "नया चैट शुरू करें",
+    "noResults": "कोई परिणाम नहीं मिला",
+    "selectConversation": "चैट शुरू करने के लिए एक वार्तालाप चुनें",
+    "typeToSearch": "उपयोगकर्ताओं को खोजने के लिए टाइप करें",
+    "noUsersFound": "कोई उपयोगकर्ता नहीं मिला",
+    "unknownUser": "अज्ञात उपयोगकर्ता",
+    "attachment": "अटैचमेंट",
+    "attachImage": "छवि संलग्न करें",
+    "attachDocument": "दस्तावेज़ संलग्न करें",
+    "openChat": "चैट खोलें",
+    "closeChat": "चैट बंद करें"
+  }
+} 

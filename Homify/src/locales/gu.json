@@ -1,0 +1,50 @@
+{
+  "app": {
+    "name": "એગ્રી-વેસ્ટ"
+  },
+  "common": {
+    "welcome": "સ્વાગત છે",
+    "login": "લોગિન",
+    "register": "નોંધણી",
+    "logout": "લોગઆઉટ",
+    "email": "ઈમેલ",
+    "password": "પાસવર્ડ",
+    "confirmPassword": "પાસવર્ડની પુષ્ટિ કરો",
+    "name": "નામ",
+    "phone": "ફોન",
+    "address": "સરનામું",
+    "submit": "સબમિટ",
+    "cancel": "રદ કરો",
+    "save": "સાચવો",
+    "edit": "સંપાદિત કરો",
+    "delete": "કાઢી નાખો",
+    "search": "શોધો",
+    "filter": "ફિલ્ટર",
+    "sort": "ક્રમમાં ગોઠવો",
+    "view": "જુઓ",
+    "close": "બંધ કરો",
+    "back": "પાછળ",
+    "next": "આગળ",
+    "loading": "લોડ થઈ રહ્યું છે...",
+    "success": "સફળતા",
+    "error": "ભૂલ",
+    "warning": "ચેતવણી",
+    "info": "માહિતી"
+  },
+  "nav": {
+    "dashboard": "ડેશબોર્ડ",
+    "wasteSelling": "કચરો વેચાણ",
+    "orders": "ઓર્ડર",
+    "wastePrediction": "કચરો આગાહી",
+    "tutorials": "ટ્યુટોરિયલ",
+    "profile": "પ્રોફાઇલ",
+    "browseWaste": "કચરો બ્રાઉઝ કરો",
+    "postRequirement": "જરૂરિયાત પોસ્ટ કરો",
+    "transport": "પરિવહન",
+    "logout": "લોગઆઉટ",
+    "overview": "ઓવરવ્યૂ",
+    "manageFarmers": "ખેડૂતોનું સંચાલન કરો",
+    "manageBuyers": "ખરીદદારોનું સંચાલન કરો",
+    "manageTutorials": "ટ્યુટોરિયલનું સંચાલન કરો"
+  }
+} 

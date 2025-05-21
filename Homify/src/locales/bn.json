@@ -1,0 +1,50 @@
+{
+  "app": {
+    "name": "অ্যাগ্রি-ওয়েস্ট"
+  },
+  "common": {
+    "welcome": "স্বাগতম",
+    "login": "লগইন",
+    "register": "নিবন্ধন",
+    "logout": "লগআউট",
+    "email": "ইমেইল",
+    "password": "পাসওয়ার্ড",
+    "confirmPassword": "পাসওয়ার্ড নিশ্চিত করুন",
+    "name": "নাম",
+    "phone": "ফোন",
+    "address": "ঠিকানা",
+    "submit": "জমা দিন",
+    "cancel": "বাতিল",
+    "save": "সংরক্ষণ",
+    "edit": "সম্পাদনা",
+    "delete": "মুছুন",
+    "search": "অনুসন্ধান",
+    "filter": "ফিল্টার",
+    "sort": "সাজান",
+    "view": "দেখুন",
+    "close": "বন্ধ",
+    "back": "পিছনে",
+    "next": "পরবর্তী",
+    "loading": "লোড হচ্ছে...",
+    "success": "সফল",
+    "error": "ত্রুটি",
+    "warning": "সতর্কতা",
+    "info": "তথ্য"
+  },
+  "nav": {
+    "dashboard": "ড্যাশবোর্ড",
+    "wasteSelling": "বর্জ্য বিক্রয়",
+    "orders": "অর্ডার",
+    "wastePrediction": "বর্জ্য পূর্বাভাস",
+    "tutorials": "টিউটোরিয়াল",
+    "profile": "প্রোফাইল",
+    "browseWaste": "বর্জ্য ব্রাউজ করুন",
+    "postRequirement": "প্রয়োজনীয়তা পোস্ট করুন",
+    "transport": "পরিবহন",
+    "logout": "লগআউট",
+    "overview": "সংক্ষিপ্ত বিবরণ",
+    "manageFarmers": "কৃষকদের পরিচালনা করুন",
+    "manageBuyers": "ক্রেতাদের পরিচালনা করুন",
+    "manageTutorials": "টিউটোরিয়াল পরিচালনা করুন"
+  }
+} 
