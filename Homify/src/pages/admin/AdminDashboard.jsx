@@ -205,7 +205,7 @@ function AdminDashboard() {
         tension: 0.1
       },
       {
-        label: 'Waste Listings',
+        label: 'Waste_Listings',
         data: stats.monthlyData.waste,
         borderColor: 'rgb(34, 197, 94)',
         tension: 0.1

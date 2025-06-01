@@ -59,13 +59,13 @@ function Dashboard() {
       // This would normally fetch from the API
       // For demo, we'll use mock data
       const mockTopWasteSales = {
-        types: ['Crop Residue', 'Vegetable Waste', 'Fruit Peels', 'Coffee Grounds', 'Sugarcane Bagasse'],
+        types: ['CropResidue', 'VegetableWaste', 'FruitPeels', 'CoffeeGrounds', 'SugarcaneBagasse'],
         quantities: [3500, 2800, 2200, 1800, 1500]
       };
 
       const mockStats = {
-        totalUsers: 156,
-        totalWaste: 12500,
+        totalUsers: 100,
+        totalWaste: 1250,
         totalOrders: 89,
         revenue: 45000,
         revenueGrowth: 12.5,
