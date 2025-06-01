@@ -68,7 +68,7 @@ const NearByBuyers = () => {
   }, []);
 
   return (
-    <LoadScript googleMapsApiKey='AIzaSyATOhR0TqqNBvlQiOknqKgAWjimLnDLevc'>
+    <LoadScript googleMapsApiKey='<enter api key here>'>
       <GoogleMap mapContainerStyle={containerStyle} center={userLocation || defaultCenter} zoom={12}>
         {buyers.map((buyer) => (
           <Marker key={buyer.id} position={{ lat: buyer.lat, lng: buyer.lng }} label={buyer.name} />
