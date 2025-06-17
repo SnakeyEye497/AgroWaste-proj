@@ -994,6 +994,7 @@ function BrowseWaste() {
     { value: "Uttar Pradesh", label: "Uttar Pradesh" },
     { value: "Gujarat", label: "Gujarat" },
     { value: "Chhattisgarh", label: "Chhattisgarh" },
+    { value: "Maharashtra", label: "Maharashtra"}
   ];
 
   const priceRangeOptions = [
