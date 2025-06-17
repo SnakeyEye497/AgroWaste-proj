@@ -65,7 +65,7 @@ function Profile() {
                 whileTap={{ scale: 0.95 }}
               >
                 <FaEdit className="mr-1" />
-                {t('common.edit')}
+                {t('edit')}
               </motion.button>
             )}
           </div>
