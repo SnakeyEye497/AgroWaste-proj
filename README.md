@@ -13,6 +13,8 @@ Our mission is to help farmers **generate income** from farm waste and assist bu
 - 🔥 **Unique platform** - No other website like this currently exists!
 - 📊 Integrated **Dashboard** for all users.
 - 🗺️ Google Maps integration to locate **nearby buyers.**
+- 🌐 Website supports **multiple languages.**
+
 
 
 
@@ -50,3 +52,58 @@ Our mission is to help farmers **generate income** from farm waste and assist bu
 | 🎥 **Tutorials** | Access useful tutorials posted by the Admin to support farmers. |
 
 ---
+### Output
+
+![Farmer Image](./Homify/src/Outputs/Farmer.png)
+
+---
+
+### 🛒 Buyer Features
+
+| Feature | Description |
+|---------|-------------|
+| 📊 **Dashboard** | Buyers can view their pending, confirmed, and completed orders in a visual format. |
+| 🔍 **Browse Waste** | Buyers can browse all the agricultural waste listed by farmers. |
+| 📢 **Post Requirement** | Buyers can post specific waste requirements visible to all farmers. |
+| 📦 **Orders** | Buyers can track the status of all their orders (Pending, Confirmed, Approved). |
+| 💬 **Contact Farmers** | Buyers can directly contact farmers via WhatsApp using Twilio messaging services. |
+
+---
+
+### Output
+
+![Buyer Image](./Homify/src/Outputs/Buyer.png)
+
+---
+
+### 🛠️ Admin Features
+
+| Feature | Description |
+|---------|-------------|
+| 📊 **Dashboard** | Admin can view all platform data and activities in a visual format. |
+| 👨‍🌾 **Manage Farmers** | Admin can view and manage all farmers registered on the platform. |
+| 🧑‍💼 **Manage Buyers** | Admin can view and manage all buyers registered on the platform. |
+| 🎥 **Tutorials** | Admin can upload useful tutorials to help and educate farmers. |
+
+---
+
+### Output
+
+![Admin Image](./Homify/src/Outputs/Admin.png)
+
+---
+
+---
+
+### 🚀 Get Involved!
+
+We are on a mission to transform agricultural waste management.  
+Whether you are a developer, farmer, buyer, or just someone interested in sustainability,  
+**your contribution and feedback are always welcome!**
+
+Feel free to ⭐ star this repository, raise issues, or contribute to make this platform even better.
+
+Thank you for visiting Agro Waste Connect! 🌱✨
+
+
+
