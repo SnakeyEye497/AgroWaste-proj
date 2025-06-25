@@ -16,7 +16,6 @@ from ml_modules.waste_predication.waste_prediction import waste_prediction
 
 from db import db
 
-
 # ✅ Initialize Flask App
 app = Flask(__name__)
 CORS(app)
@@ -36,6 +35,9 @@ app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 # Import ML modules
         
+@app.route('/test')
+def test():
+    return "Server is working ...."
 
 @app.route('/api/predict', methods=['POST'])
 def predict_waste():
